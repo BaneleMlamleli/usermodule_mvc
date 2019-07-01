@@ -1,4 +1,4 @@
-<!-- 20190619 - Created a index.php for users to login - Banele -->
+<!-- 20190619 - Created a login.php for users to login - Banele -->
 <!-- 20190620 - Created an SQL statement that will read all the database field then verify the entered user details against the read data.
 If the login entered details are correct the variable 'correctDetails' will be true then immediately break out of the while condition.
 Redirect to userForm.php page once the user login detail have been correctly verified else it will display an error message -->

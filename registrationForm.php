@@ -101,7 +101,7 @@ once user has successfully registered - Banele -->
     <p>Register user details!</p>
     <ul class="nav">
       <li class="nav-item">
-        <a class="nav-link" href="index.php"><b><h3>Login page</h3></b></a>
+        <a class="nav-link" href="public/index.php"><b><h3>Login page</h3></b></a>
       </li>
     </ul>
   </div>
